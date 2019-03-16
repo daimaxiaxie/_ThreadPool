@@ -40,6 +40,7 @@ int main()
 	{
 		std::cout << r.get() << " over" << std::endl;
 	}
+	//According to the results, operation is not at the same time
 	return 0;
 }
 
